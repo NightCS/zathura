@@ -7,7 +7,7 @@ Clean and dark colorscheme for zathura
 ## Installation
 
 1. Create folder `~/.config/zathura` if not exists
-2. Copy file `night` to `~/.config/zathura'
+2. Copy file `night` to `~/.config/zathura`
 3. In your `zathurarc` put `include night`
 4. Done!
 
